@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item>
+    <Pharmacy>Bereg_1</Pharmacy>
+    <Medicine>Арбидол</Medicine>
+    <Quantity>1000</Quantity>
+    <Price>200</Price>
+    <Date></Date>
+    <Expires>720</Expires>
+  </Item>
+</Items>

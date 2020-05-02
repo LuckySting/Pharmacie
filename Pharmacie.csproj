@@ -79,5 +79,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="db.xml" />
+    <Content Include="db_t_1.xml" />
+    <Content Include="db_t_10.xml" />
+    <Content Include="db_t_2.xml" />
+    <Content Include="db_t_3.xml" />
+    <Content Include="db_t_4.xml" />
+    <Content Include="db_t_5.xml" />
+    <Content Include="db_t_6.xml" />
+    <Content Include="db_t_7.xml" />
+    <Content Include="db_t_8.xml" />
+    <Content Include="db_t_9.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

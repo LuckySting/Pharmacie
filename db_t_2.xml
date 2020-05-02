@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item>
+    <Pharmacy>Bereg_1</Pharmacy>
+    <Medicine>Арбидол</Medicine>
+    <Quantity>1000</Quantity>
+    <Price>200</Price>
+    <Date>02.05.2020</Date>
+    <Expires>720</Expires>
+  </Item>
+  <Item>
+    <Pharmacy>Bereg_1</Pharmacy>
+    <Medicine>Аспирин</Medicine>
+    <Quantity>1000</Quantity>
+    <Price>76</Price>
+    <Date>03.05.2020</Date>
+    <Expires>180</Expires>
+  </Item>
+  <Item>
+    <Pharmacy>Bereg_2</Pharmacy>
+    <Medicine>Арбидол</Medicine>
+    <Quantity>150</Quantity>
+    <Price>210</Price>
+    <Date>04.01.2020</Date>
+    <Expires>720</Expires>
+  </Item>
+  <Item>
+    <Pharmacy>Bereg_2</Pharmacy>
+    <Medicine>Аспирин</Medicine>
+    <Quantity>1800</Quantity>
+    <Price>100</Price>
+    <Date>02.05.2020</Date>
+    <Expires>360</Expires>
+  </Item>
+  <Item>
+    <Pharmacy>Jackson</Pharmacy>
+    <Medicine>Терафлю</Medicine>
+    <Quantity>40</Quantity>
+    <Price>500</Price>
+    <Date>02.05.2010</Date>
+    <Expires>1024</Expires>
+  </Item>
+</Items>

@@ -14,7 +14,7 @@ namespace Pharmacie
 {
     public partial class Form1 : Form
     {
-        private IEnumerable<object[]> stored;
+        public IEnumerable<object[]> stored;
         public Form1()
         {
             InitializeComponent();
